@@ -57,7 +57,7 @@
         
         .input {
             display: flex;
-            margin-left: -150px;
+            margin-left: -50%;
             margin-top: 20px;
             width: 200%;
             position: relative;
